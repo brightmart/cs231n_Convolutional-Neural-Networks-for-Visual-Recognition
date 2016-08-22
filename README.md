@@ -24,3 +24,5 @@ Assignment list:
         Q2: Image Captioning with LSTMs (35 points)  [done!]
         Q3: Image Gradients: Saliency maps and Fooling Images (10 points)  [done!]
         Q4: Image Generation: Classes, Inversion, DeepDream (15 points)  [done!]
+
+Contact me with at 158085159@qq.com
